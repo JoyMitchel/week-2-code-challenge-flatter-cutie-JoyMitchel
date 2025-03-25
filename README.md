@@ -1,10 +1,4 @@
-https://vercel.com/new/joymitchels-projects/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=week-2-code-challenge-flatter-cutie-joy-mitchel-y2x5-gxhkcxqb6.vercel.app&projectName=week-2-code-challenge-flatter-cutie-joy-mitchel-y2x5&s=https%3A%2F%2Fgithub.com%2FJoyMitchel%2Fweek-2-code-challenge-flatter-cutie-JoyMitchel&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1
-
-
-
-
-
-
+https://week-2-code-challenge-flatter-cutie-joy-mitchel-uj78.vercel.app/
 
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/-R948yT9)
